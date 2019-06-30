@@ -1,0 +1,815 @@
+Teardrop Report uInv_PCB.PcbDoc
+On 29.6.2019. at 18:14:17
+
+Pads visited                : 396
+
+Vias visited                : 406
+
+Pad teardrops failed : 0
+
+Pad C26-1(28.225mm,19.225mm) on TL
+Pad C26-2(26.625mm,19.225mm) on TL
+Pad C28-1(20.4mm,17.5mm) on TL
+Pad C28-2(20.4mm,15.214mm) on TL
+Pad R46-1(44.65mm,30.45mm) on TL
+Pad R46-2(44.65mm,32.736mm) on TL
+Pad R16-1(34.625mm,5.075mm) on TL
+Pad R16-2(36.911mm,5.075mm) on TL
+Pad R15-1(24.436mm,12.15mm) on TL
+Pad R15-2(22.15mm,12.15mm) on TL
+Pad C2-1(33.25mm,17.075mm) on TL
+Pad C2-2(33.25mm,14.789mm) on TL
+Pad C13-2(45.593mm,58.039mm) on TL
+Pad C13-1(45.593mm,49.009mm) on TL
+Pad R30-1(34.45mm,45.35mm) on TL
+Pad R30-2(34.45mm,49.1mm) on TL
+Pad R31-1(23.35mm,45.4mm) on TL
+Pad R31-2(23.35mm,49.15mm) on TL
+Pad Q4-2(1.88mm,42.89mm) on TL
+Pad Q4-2(5.69mm,42.89mm) on TL
+Pad Q4-1(5.69mm,37.064mm) on TL
+Pad Q4-3(4.42mm,37.065mm) on TL
+Pad Q4-3(3.15mm,37.065mm) on TL
+Pad Q4-3(1.88mm,37.065mm) on TL
+Pad Q4-2(3.78mm,40.79mm) on TL
+Pad Q4-2(1.455mm,39.39mm) on TL
+Pad Q4-2(6.105mm,39.39mm) on TL
+Pad Q1-2(13.66mm,36.925mm) on TL
+Pad Q1-2(9.85mm,36.925mm) on TL
+Pad Q1-1(9.85mm,42.751mm) on TL
+Pad Q1-3(11.12mm,42.751mm) on TL
+Pad Q1-3(12.39mm,42.751mm) on TL
+Pad Q1-3(13.66mm,42.751mm) on TL
+Pad Q1-2(11.76mm,39.025mm) on TL
+Pad Q1-2(14.085mm,40.426mm) on TL
+Pad Q1-2(9.435mm,40.426mm) on TL
+Pad Q2-2(22.375mm,36.95mm) on TL
+Pad Q2-2(18.565mm,36.95mm) on TL
+Pad Q2-1(18.565mm,42.776mm) on TL
+Pad Q2-3(19.835mm,42.775mm) on TL
+Pad Q2-3(21.105mm,42.775mm) on TL
+Pad Q2-3(22.375mm,42.775mm) on TL
+Pad Q2-2(20.475mm,39.05mm) on TL
+Pad Q2-2(22.8mm,40.45mm) on TL
+Pad Q2-2(18.15mm,40.45mm) on TL
+Pad Q3-2(46.725mm,36.999mm) on TL
+Pad Q3-2(42.915mm,36.999mm) on TL
+Pad Q3-1(42.915mm,42.825mm) on TL
+Pad Q3-3(44.185mm,42.825mm) on TL
+Pad Q3-3(45.455mm,42.825mm) on TL
+Pad Q3-3(46.725mm,42.825mm) on TL
+Pad Q3-2(44.825mm,39.1mm) on TL
+Pad Q3-2(47.15mm,40.5mm) on TL
+Pad Q3-2(42.5mm,40.5mm) on TL
+Pad Q6-2(34.8mm,42.826mm) on TL
+Pad Q6-2(38.61mm,42.826mm) on TL
+Pad Q6-1(38.61mm,37mm) on TL
+Pad Q6-3(37.34mm,37mm) on TL
+Pad Q6-3(36.07mm,37mm) on TL
+Pad Q6-3(34.8mm,37mm) on TL
+Pad Q6-2(36.7mm,40.725mm) on TL
+Pad Q6-2(34.375mm,39.325mm) on TL
+Pad Q6-2(39.025mm,39.325mm) on TL
+Pad DS2-2(14.111mm,12.625mm) on TL
+Pad DS2-1(11.825mm,12.625mm) on TL
+Pad R38-1(6.35mm,22.425mm) on TL
+Pad R38-2(8.636mm,22.425mm) on TL
+Pad R39-1(6.589mm,18.7mm) on TL
+Pad R39-2(8.875mm,18.7mm) on TL
+Pad R56-1(13.65mm,23.425mm) on TL
+Pad R56-2(15.936mm,23.425mm) on TL
+Pad R57-1(13.614mm,20.65mm) on TL
+Pad R57-2(15.9mm,20.65mm) on TL
+Pad R23-1(24.461mm,9.85mm) on TL
+Pad R23-2(22.175mm,9.85mm) on TL
+Pad R14-1(24.461mm,7.575mm) on TL
+Pad R14-2(22.175mm,7.575mm) on TL
+Pad R22-1(24.475mm,5.304mm) on TL
+Pad R22-2(22.189mm,5.304mm) on TL
+Pad R51-1(13.625mm,17.85mm) on TL
+Pad R51-2(15.911mm,17.85mm) on TL
+Pad C24-1(29.937mm,28.102mm) on TL
+Pad C24-2(28.321mm,29.718mm) on TL
+Pad C32-1(23.266mm,35.56mm) on TL
+Pad C32-2(25.552mm,35.56mm) on TL
+Pad R55-1(6.35mm,5.192mm) on TL
+Pad R55-2(8.636mm,5.192mm) on TL
+Pad C22-1(32.325mm,24.95mm) on TL
+Pad C22-2(32.325mm,22.664mm) on TL
+Pad R4-1(37.936mm,14.75mm) on TL
+Pad R4-2(35.65mm,14.75mm) on TL
+Pad R10-1(37.036mm,11.925mm) on TL
+Pad R10-2(34.75mm,11.925mm) on TL
+Pad R25-1(34.65mm,9.65mm) on TL
+Pad R25-2(36.936mm,9.65mm) on TL
+Pad R24-1(34.65mm,7.375mm) on TL
+Pad R24-2(36.936mm,7.375mm) on TL
+Pad R9-1(41.9mm,5.275mm) on TL
+Pad R9-2(39.614mm,5.275mm) on TL
+Pad R8-1(41.886mm,7.625mm) on TL
+Pad R8-2(39.6mm,7.625mm) on TL
+Pad R7-1(41.986mm,10.05mm) on TL
+Pad R7-2(39.7mm,10.05mm) on TL
+Pad R45-1(6.325mm,7.475mm) on TL
+Pad R45-2(8.611mm,7.475mm) on TL
+Pad R40-1(6.325mm,15.05mm) on TL
+Pad R40-2(8.611mm,15.05mm) on TL
+Pad R37-1(6.325mm,9.775mm) on TL
+Pad R37-2(8.611mm,9.775mm) on TL
+Pad R3-1(17.169mm,10.354mm) on TL
+Pad R3-2(14.883mm,10.354mm) on TL
+Pad R28-1(6.325mm,12.625mm) on TL
+Pad R28-2(8.611mm,12.625mm) on TL
+Pad R54-1(4.166mm,30.302mm) on TL
+Pad R54-2(4.166mm,32.588mm) on TL
+Pad R50-1(10.211mm,31.547mm) on TL
+Pad R50-2(10.211mm,33.833mm) on TL
+Pad R47-1(38.456mm,32.512mm) on TL
+Pad R47-2(38.456mm,34.798mm) on TL
+Pad R49-1(16.383mm,32.563mm) on TL
+Pad R49-2(17.999mm,34.179mm) on TL
+Pad R48-1(34.128mm,33.182mm) on TL
+Pad R48-2(32.512mm,34.798mm) on TL
+Pad Q5-2(26.575mm,42.801mm) on TL
+Pad Q5-2(30.385mm,42.801mm) on TL
+Pad Q5-1(30.385mm,36.975mm) on TL
+Pad Q5-3(29.115mm,36.975mm) on TL
+Pad Q5-3(27.845mm,36.975mm) on TL
+Pad Q5-3(26.575mm,36.975mm) on TL
+Pad Q5-2(28.475mm,40.7mm) on TL
+Pad Q5-2(26.15mm,39.3mm) on TL
+Pad Q5-2(30.8mm,39.3mm) on TL
+Pad R27-2(8.636mm,24.725mm) on TL
+Pad R27-1(6.35mm,24.725mm) on TL
+Pad U5-0(23.85mm,26.129mm) on TL
+Pad U5-40(27.597mm,25.563mm) on TL
+Pad U5-39(27.244mm,25.209mm) on TL
+Pad U5-38(26.89mm,24.856mm) on TL
+Pad U5-37(26.537mm,24.502mm) on TL
+Pad U5-36(26.183mm,24.149mm) on TL
+Pad U5-35(25.829mm,23.795mm) on TL
+Pad U5-34(25.476mm,23.442mm) on TL
+Pad U5-33(25.122mm,23.088mm) on TL
+Pad U5-32(24.769mm,22.735mm) on TL
+Pad U5-31(24.415mm,22.381mm) on TL
+Pad U5-30(23.284mm,22.381mm) on TL
+Pad U5-29(22.93mm,22.735mm) on TL
+Pad U5-28(22.577mm,23.088mm) on TL
+Pad U5-27(22.223mm,23.442mm) on TL
+Pad U5-26(21.87mm,23.795mm) on TL
+Pad U5-25(21.516mm,24.149mm) on TL
+Pad U5-24(21.163mm,24.502mm) on TL
+Pad U5-23(20.809mm,24.856mm) on TL
+Pad U5-22(20.455mm,25.209mm) on TL
+Pad U5-21(20.102mm,25.563mm) on TL
+Pad U5-20(20.102mm,26.694mm) on TL
+Pad U5-19(20.455mm,27.048mm) on TL
+Pad U5-18(20.809mm,27.402mm) on TL
+Pad U5-17(21.163mm,27.755mm) on TL
+Pad U5-16(21.516mm,28.109mm) on TL
+Pad U5-15(21.87mm,28.462mm) on TL
+Pad U5-14(22.223mm,28.816mm) on TL
+Pad U5-13(22.577mm,29.169mm) on TL
+Pad U5-12(22.93mm,29.523mm) on TL
+Pad U5-11(23.284mm,29.876mm) on TL
+Pad U5-10(24.415mm,29.876mm) on TL
+Pad U5-9(24.769mm,29.523mm) on TL
+Pad U5-8(25.122mm,29.169mm) on TL
+Pad U5-7(25.476mm,28.816mm) on TL
+Pad U5-6(25.829mm,28.462mm) on TL
+Pad U5-5(26.183mm,28.109mm) on TL
+Pad U5-4(26.537mm,27.755mm) on TL
+Pad U5-3(26.89mm,27.402mm) on TL
+Pad U5-2(27.244mm,27.048mm) on TL
+Pad U5-1(27.597mm,26.694mm) on TL
+Pad C1-1(33.375mm,19.475mm) on TL
+Pad C1-2(35.661mm,19.475mm) on TL
+Pad C11-2(2.794mm,58.039mm) on TL
+Pad C11-1(2.794mm,49.009mm) on TL
+Pad D5-1(28.05mm,14.723mm) on TL
+Pad D5-2(28.05mm,18mm) on TL
+Pad DS1-2(35.639mm,17.05mm) on TL
+Pad DS1-1(37.925mm,17.05mm) on TL
+Pad L1-1(25.937mm,16.417mm) on TL
+Pad L1-2(22.937mm,16.417mm) on TL
+Pad R32-1(12.475mm,45.4mm) on TL
+Pad R32-2(12.475mm,49.15mm) on TL
+Pad U2-5(11.43mm,8.407mm) on TL
+Pad U2-6(11.43mm,7.137mm) on TL
+Pad U2-7(11.43mm,5.867mm) on TL
+Pad U2-8(11.43mm,4.597mm) on TL
+Pad U2-4(17.03mm,8.407mm) on TL
+Pad U2-3(17.03mm,7.137mm) on TL
+Pad U2-2(17.03mm,5.867mm) on TL
+Pad U2-1(17.03mm,4.597mm) on TL
+Pad U3-8(32.475mm,5.15mm) on TL
+Pad U3-9(32.475mm,6.42mm) on TL
+Pad U3-10(32.475mm,7.69mm) on TL
+Pad U3-11(32.475mm,8.96mm) on TL
+Pad U3-12(32.475mm,10.23mm) on TL
+Pad U3-13(32.475mm,11.5mm) on TL
+Pad U3-14(32.475mm,12.77mm) on TL
+Pad U3-7(27.075mm,5.15mm) on TL
+Pad U3-6(27.075mm,6.42mm) on TL
+Pad U3-5(27.075mm,7.69mm) on TL
+Pad U3-4(27.075mm,8.96mm) on TL
+Pad U3-3(27.075mm,10.23mm) on TL
+Pad U3-2(27.075mm,11.5mm) on TL
+Pad U3-1(27.075mm,12.77mm) on TL
+Pad J4-11(46.965mm,1.524mm) on Multi-Layer
+Pad J4-12(46.965mm,4.064mm) on Multi-Layer
+Pad J4-13(46.965mm,6.604mm) on Multi-Layer
+Pad J4-14(46.965mm,9.144mm) on Multi-Layer
+Pad J4-15(46.965mm,11.684mm) on Multi-Layer
+Pad J4-16(46.965mm,14.224mm) on Multi-Layer
+Pad J4-17(46.965mm,16.764mm) on Multi-Layer
+Pad J4-18(46.965mm,19.304mm) on Multi-Layer
+Pad J4-19(46.965mm,21.844mm) on Multi-Layer
+Pad J4-20(46.965mm,24.384mm) on Multi-Layer
+Pad J4-10(44.425mm,1.524mm) on Multi-Layer
+Pad J4-9(44.425mm,4.064mm) on Multi-Layer
+Pad J4-8(44.425mm,6.604mm) on Multi-Layer
+Pad J4-7(44.425mm,9.144mm) on Multi-Layer
+Pad J4-6(44.425mm,11.684mm) on Multi-Layer
+Pad J4-5(44.425mm,14.224mm) on Multi-Layer
+Pad J4-4(44.425mm,16.764mm) on Multi-Layer
+Pad J4-3(44.425mm,19.304mm) on Multi-Layer
+Pad J4-2(44.425mm,21.844mm) on Multi-Layer
+Pad J4-1(44.425mm,24.384mm) on Multi-Layer
+Pad J1-1(11.405mm,2.794mm) on Multi-Layer
+Pad J1-2(13.945mm,2.794mm) on Multi-Layer
+Pad J1-3(16.485mm,2.794mm) on Multi-Layer
+Pad J2-1(24.105mm,2.794mm) on Multi-Layer
+Pad J2-2(26.645mm,2.794mm) on Multi-Layer
+Pad J2-3(29.185mm,2.794mm) on Multi-Layer
+Pad J2-4(31.725mm,2.794mm) on Multi-Layer
+Pad J2-5(34.265mm,2.794mm) on Multi-Layer
+Pad J2-6(36.805mm,2.794mm) on Multi-Layer
+Pad J3-11(3.785mm,1.524mm) on Multi-Layer
+Pad J3-12(3.785mm,4.064mm) on Multi-Layer
+Pad J3-13(3.785mm,6.604mm) on Multi-Layer
+Pad J3-14(3.785mm,9.144mm) on Multi-Layer
+Pad J3-15(3.785mm,11.684mm) on Multi-Layer
+Pad J3-16(3.785mm,14.224mm) on Multi-Layer
+Pad J3-17(3.785mm,16.764mm) on Multi-Layer
+Pad J3-18(3.785mm,19.304mm) on Multi-Layer
+Pad J3-19(3.785mm,21.844mm) on Multi-Layer
+Pad J3-20(3.785mm,24.384mm) on Multi-Layer
+Pad J3-10(1.245mm,1.524mm) on Multi-Layer
+Pad J3-9(1.245mm,4.064mm) on Multi-Layer
+Pad J3-8(1.245mm,6.604mm) on Multi-Layer
+Pad J3-7(1.245mm,9.144mm) on Multi-Layer
+Pad J3-6(1.245mm,11.684mm) on Multi-Layer
+Pad J3-5(1.245mm,14.224mm) on Multi-Layer
+Pad J3-4(1.245mm,16.764mm) on Multi-Layer
+Pad J3-3(1.245mm,19.304mm) on Multi-Layer
+Pad J3-2(1.245mm,21.844mm) on Multi-Layer
+Pad J3-1(1.245mm,24.384mm) on Multi-Layer
+Pad J5-1(36.7mm,56.5mm) on Multi-Layer
+Pad J5-2(31.7mm,56.5mm) on Multi-Layer
+Pad J6-3(15.5mm,56.475mm) on Multi-Layer
+Pad J6-2(20.5mm,56.475mm) on Multi-Layer
+Pad J6-1(25.5mm,56.475mm) on Multi-Layer
+Pad C29-1(22.79mm,17.5mm) on BL
+Pad C29-2(22.79mm,15.214mm) on BL
+Pad C30-1(20.393mm,17.517mm) on BL
+Pad C30-2(20.393mm,15.231mm) on BL
+Pad C14-2(6.297mm,35.992mm) on BL
+Pad C14-1(9.197mm,35.992mm) on BL
+Pad C15-2(40.255mm,36.17mm) on BL
+Pad C15-1(43.155mm,36.17mm) on BL
+Pad C25-1(13.625mm,17.85mm) on BL
+Pad C25-2(15.911mm,17.85mm) on BL
+Pad R44-1(-0.233mm,27.203mm) on BL
+Pad R44-2(-0.233mm,29.489mm) on BL
+Pad R36-1(-0.238mm,32.194mm) on BL
+Pad R36-2(-0.238mm,34.48mm) on BL
+Pad C21-1(10.782mm,26.314mm) on BL
+Pad C21-2(12.382mm,26.314mm) on BL
+Pad R52-1(15.936mm,23.425mm) on BL
+Pad R52-2(13.65mm,23.425mm) on BL
+Pad R43-1(17.441mm,26.254mm) on BL
+Pad R43-2(17.441mm,28.54mm) on BL
+Pad R35-1(17.416mm,31.068mm) on BL
+Pad R35-2(17.416mm,33.354mm) on BL
+Pad U4-2(13.775mm,30.11mm) on BL
+Pad U4-3(13.775mm,28.84mm) on BL
+Pad U4-4(13.775mm,27.57mm) on BL
+Pad U4-7(8.825mm,30.11mm) on BL
+Pad U4-6(8.825mm,28.84mm) on BL
+Pad U4-5(8.825mm,27.57mm) on BL
+Pad U4-1(13.775mm,31.38mm) on BL
+Pad U4-8(8.825mm,31.38mm) on BL
+Pad D2-1(6.99mm,22.468mm) on BL
+Pad D2-2(6.025mm,24.5mm) on BL
+Pad D2-3(7.93mm,24.5mm) on BL
+Pad C17-1(9.5mm,21.55mm) on BL
+Pad C17-2(9.5mm,23.15mm) on BL
+Pad R53-1(15.961mm,20.65mm) on BL
+Pad R53-2(13.675mm,20.65mm) on BL
+Pad D3-1(6.95mm,18.525mm) on BL
+Pad D3-2(5.985mm,20.557mm) on BL
+Pad D3-3(7.89mm,20.557mm) on BL
+Pad D4-1(6.94mm,14.818mm) on BL
+Pad D4-2(5.975mm,16.85mm) on BL
+Pad D4-3(7.88mm,16.85mm) on BL
+Pad R29-1(8.625mm,12.75mm) on BL
+Pad R29-2(6.339mm,12.75mm) on BL
+Pad C16-1(9.5mm,9.075mm) on BL
+Pad C16-2(9.5mm,10.675mm) on BL
+Pad C23-1(6.425mm,7.225mm) on BL
+Pad C23-2(8.025mm,7.225mm) on BL
+Pad C27-1(6.375mm,5.334mm) on BL
+Pad C27-2(7.975mm,5.334mm) on BL
+Pad C19-1(9.5mm,14.875mm) on BL
+Pad C19-2(9.5mm,16.475mm) on BL
+Pad C18-1(9.55mm,18.1mm) on BL
+Pad C18-2(9.55mm,19.7mm) on BL
+Pad R1-1(12.294mm,5.004mm) on BL
+Pad R1-2(14.58mm,5.004mm) on BL
+Pad C5-1(13.85mm,6.725mm) on BL
+Pad C5-2(13.85mm,8.325mm) on BL
+Pad R5-1(17.018mm,7.417mm) on BL
+Pad R5-2(17.018mm,5.131mm) on BL
+Pad R2-1(14.858mm,10.354mm) on BL
+Pad R2-2(17.144mm,10.354mm) on BL
+Pad C31-1(23.317mm,33.757mm) on BL
+Pad C31-2(25.603mm,33.757mm) on BL
+Pad C20-1(34.087mm,26.289mm) on BL
+Pad C20-2(35.687mm,26.289mm) on BL
+Pad R58-1(37.795mm,30.201mm) on BL
+Pad R58-2(37.795mm,32.487mm) on BL
+Pad R33-1(42.494mm,30.912mm) on BL
+Pad R33-2(42.494mm,33.198mm) on BL
+Pad R34-1(48.533mm,32.271mm) on BL
+Pad R34-2(48.533mm,34.557mm) on BL
+Pad R42-1(48.508mm,27.207mm) on BL
+Pad R42-2(48.508mm,29.493mm) on BL
+Pad R41-1(42.469mm,26.213mm) on BL
+Pad R41-2(42.469mm,28.499mm) on BL
+Pad R60-1(27.143mm,15.017mm) on BL
+Pad R60-2(27.143mm,17.303mm) on BL
+Pad R59-1(24.868mm,17.328mm) on BL
+Pad R59-2(24.868mm,15.042mm) on BL
+Pad C3-1(31.075mm,17.2mm) on BL
+Pad C3-2(31.075mm,14.914mm) on BL
+Pad C7-1(28.75mm,12.325mm) on BL
+Pad C7-2(30.35mm,12.325mm) on BL
+Pad R26-1(26.825mm,10.025mm) on BL
+Pad R26-2(26.825mm,12.311mm) on BL
+Pad R19-1(26.9mm,5.2mm) on BL
+Pad R19-2(26.9mm,7.486mm) on BL
+Pad R12-1(22.175mm,9.875mm) on BL
+Pad R12-2(24.461mm,9.875mm) on BL
+Pad R17-1(22.125mm,7.575mm) on BL
+Pad R17-2(24.411mm,7.575mm) on BL
+Pad R11-1(22.189mm,5.304mm) on BL
+Pad R11-2(24.475mm,5.304mm) on BL
+Pad R18-1(22.15mm,12.2mm) on BL
+Pad R18-2(24.436mm,12.2mm) on BL
+Pad R6-1(36.911mm,9.675mm) on BL
+Pad R6-2(34.625mm,9.675mm) on BL
+Pad C10-1(28.9mm,10.125mm) on BL
+Pad C10-2(30.5mm,10.125mm) on BL
+Pad C6-1(30.1mm,4.625mm) on BL
+Pad C6-2(28.5mm,4.625mm) on BL
+Pad C9-1(30.1mm,5.975mm) on BL
+Pad C9-2(28.5mm,5.975mm) on BL
+Pad R20-1(32.095mm,5.558mm) on BL
+Pad R20-2(32.095mm,7.844mm) on BL
+Pad R13-1(36.911mm,7.35mm) on BL
+Pad R13-2(34.625mm,7.35mm) on BL
+Pad R21-1(36.911mm,5.075mm) on BL
+Pad R21-2(34.625mm,5.075mm) on BL
+Pad C8-1(28.65mm,8.775mm) on BL
+Pad C8-2(30.25mm,8.775mm) on BL
+Pad U5-0(23.85mm,26.129mm) on BL
+Pad U6-1(34.475mm,31.355mm) on BL
+Pad U6-2(34.475mm,30.085mm) on BL
+Pad U6-3(34.475mm,28.815mm) on BL
+Pad U6-4(34.475mm,27.545mm) on BL
+Pad U6-8(29.525mm,31.355mm) on BL
+Pad U6-7(29.525mm,30.085mm) on BL
+Pad U6-6(29.525mm,28.815mm) on BL
+Pad U6-5(29.525mm,27.545mm) on BL
+Pad C4-1(15.15mm,6.725mm) on BL
+Pad C4-2(15.15mm,8.325mm) on BL
+Pad C12-2(25.908mm,36.093mm) on BL
+Pad C12-1(23.008mm,36.093mm) on BL
+Pad D1-1(6.925mm,8.775mm) on BL
+Pad D1-2(5.96mm,10.807mm) on BL
+Pad D1-3(7.865mm,10.807mm) on BL
+Pad U1-0(38.875mm,17.175mm) on BL
+Pad U1-1(33.175mm,14.875mm) on BL
+Pad U1-2(33.175mm,17.175mm) on BL
+Pad U1-3(33.175mm,19.475mm) on BL
+
+Via teardrops failed : 0
+
+Via (32.475mm,4.25mm) from TL to BL
+Via (28.025mm,15.625mm) from TL to BL
+Via (12.7mm,7.15mm) from TL to BL
+Via (15.775mm,6.775mm) from TL to BL
+Via (6.35mm,4.3mm) from TL to BL
+Via (6.4mm,6.575mm) from TL to BL
+Via (6.95mm,19.55mm) from TL to BL
+Via (6.925mm,15.85mm) from TL to BL
+Via (6.4mm,8.825mm) from TL to BL
+Via (19.425mm,15.225mm) from TL to BL
+Via (24.425mm,4.4mm) from TL to BL
+Via (36.925mm,4.225mm) from TL to BL
+Via (34.65mm,6.5mm) from TL to BL
+Via (24.5mm,8.975mm) from TL to BL
+Via (38.25mm,11.925mm) from TL to BL
+Via (39.6mm,6.125mm) from TL to BL
+Via (34.6mm,10.525mm) from TL to BL
+Via (39.586mm,8.475mm) from TL to BL
+Via (13.3mm,6.175mm) from TL to BL
+Via (39.686mm,10.9mm) from TL to BL
+Via (29.625mm,11.55mm) from TL to BL
+Via (28.5mm,5.325mm) from TL to BL
+Via (28.65mm,8.15mm) from TL to BL
+Via (28.75mm,11.7mm) from TL to BL
+Via (31.025mm,6.9mm) from TL to BL
+Via (20.575mm,9.85mm) from TL to BL
+Via (20.6mm,5.275mm) from TL to BL
+Via (22.2mm,4.075mm) from TL to BL
+Via (30.35mm,12.925mm) from TL to BL
+Via (38.125mm,10.675mm) from TL to BL
+Via (38.158mm,6.267mm) from TL to BL
+Via (38.15mm,9.65mm) from TL to BL
+Via (38.15mm,7.375mm) from TL to BL
+Via (22.2mm,8.725mm) from TL to BL
+Via (22.15mm,11.3mm) from TL to BL
+Via (22.175mm,6.725mm) from TL to BL
+Via (24.475mm,6.471mm) from TL to BL
+Via (17.25mm,11.475mm) from TL to BL
+Via (29.375mm,7.225mm) from TL to BL
+Via (41.975mm,11.125mm) from TL to BL
+Via (43.1mm,7.55mm) from TL to BL
+Via (41.9mm,4.2mm) from TL to BL
+Via (15.85mm,5.575mm) from TL to BL
+Via (14.5mm,8.325mm) from TL to BL
+Via (25.632mm,10.868mm) from TL to BL
+Via (42.35mm,24.384mm) from TL to BL
+Via (41.825mm,23.85mm) from TL to BL
+Via (39.3mm,21.475mm) from TL to BL
+Via (39.975mm,22.125mm) from TL to BL
+Via (40.65mm,22.7mm) from TL to BL
+Via (41.25mm,23.275mm) from TL to BL
+Via (29.425mm,17.3mm) from TL to BL
+Via (32.135mm,17.175mm) from TL to BL
+Via (32.11mm,14.85mm) from TL to BL
+Via (28.025mm,25.95mm) from TL to BL
+Via (34.475mm,14.775mm) from TL to BL
+Via (34.35mm,17.075mm) from TL to BL
+Via (10.225mm,12.725mm) from TL to BL
+Via (9.225mm,6.55mm) from TL to BL
+Via (9.25mm,4.25mm) from TL to BL
+Via (10.575mm,15mm) from TL to BL
+Via (11.775mm,18.725mm) from TL to BL
+Via (5.725mm,23.65mm) from TL to BL
+Via (11.692mm,14.358mm) from TL to BL
+Via (21.55mm,17.9mm) from TL to BL
+Via (35.275mm,3.946mm) from TL to BL
+Via (22.45mm,20.1mm) from TL to BL
+Via (23.375mm,19.1mm) from TL to BL
+Via (22.9mm,19.6mm) from TL to BL
+Via (20.575mm,21.575mm) from TL to BL
+Via (20.975mm,20.975mm) from TL to BL
+Via (21.45mm,20.425mm) from TL to BL
+Via (7.725mm,2.725mm) from TL to BL
+Via (6.3mm,11.9mm) from TL to BL
+Via (12.15mm,9.775mm) from TL to BL
+Via (21.55mm,17.1mm) from TL to BL
+Via (13.625mm,16.625mm) from TL to BL
+Via (15.95mm,16.625mm) from TL to BL
+Via (22.7mm,24.65mm) from TL to BL
+Via (24.633mm,24.284mm) from TL to BL
+Via (21.298mm,26.205mm) from TL to BL
+Via (23.9mm,30.55mm) from TL to BL
+Via (23.85mm,28.9mm) from TL to BL
+Via (8.4mm,29.475mm) from TL to BL
+Via (17.475mm,17.85mm) from TL to BL
+Via (15.925mm,22.65mm) from TL to BL
+Via (18.975mm,25.65mm) from TL to BL
+Via (21.15mm,29.9mm) from TL to BL
+Via (13.95mm,24.575mm) from TL to BL
+Via (19.2mm,20.825mm) from TL to BL
+Via (17.725mm,23.45mm) from TL to BL
+Via (19.575mm,20.225mm) from TL to BL
+Via (18.975mm,26.475mm) from TL to BL
+Via (18.925mm,23.475mm) from TL to BL
+Via (15.9mm,19.775mm) from TL to BL
+Via (22.95mm,13.625mm) from TL to BL
+Via (32.207mm,19.469mm) from TL to BL
+Via (36.743mm,19.731mm) from TL to BL
+Via (-1.6mm,48.4mm) from TL to BL
+Via (-0.7mm,48.4mm) from TL to BL
+Via (0.2mm,48.4mm) from TL to BL
+Via (1.1mm,48.4mm) from TL to BL
+Via (1.1mm,49.3mm) from TL to BL
+Via (0.2mm,49.3mm) from TL to BL
+Via (-0.7mm,49.3mm) from TL to BL
+Via (-1.6mm,49.3mm) from TL to BL
+Via (1.1mm,50.2mm) from TL to BL
+Via (0.2mm,50.2mm) from TL to BL
+Via (-0.7mm,50.2mm) from TL to BL
+Via (-1.6mm,50.2mm) from TL to BL
+Via (1.1mm,51.1mm) from TL to BL
+Via (0.2mm,51.1mm) from TL to BL
+Via (-0.7mm,51.1mm) from TL to BL
+Via (-1.6mm,51.1mm) from TL to BL
+Via (2mm,52mm) from TL to BL
+Via (1.1mm,52mm) from TL to BL
+Via (0.2mm,52mm) from TL to BL
+Via (-0.7mm,52mm) from TL to BL
+Via (4.7mm,52mm) from TL to BL
+Via (3.8mm,52mm) from TL to BL
+Via (2.9mm,52mm) from TL to BL
+Via (4.7mm,51.1mm) from TL to BL
+Via (4.7mm,50.2mm) from TL to BL
+Via (4.7mm,49.3mm) from TL to BL
+Via (4.7mm,48.4mm) from TL to BL
+Via (49.8mm,50.2mm) from TL to BL
+Via (48.9mm,50.2mm) from TL to BL
+Via (48mm,50.2mm) from TL to BL
+Via (47.1mm,50.2mm) from TL to BL
+Via (49.8mm,49.3mm) from TL to BL
+Via (48.9mm,49.3mm) from TL to BL
+Via (48mm,49.3mm) from TL to BL
+Via (47.1mm,49.3mm) from TL to BL
+Via (49.8mm,48.4mm) from TL to BL
+Via (48.9mm,48.4mm) from TL to BL
+Via (48mm,48.4mm) from TL to BL
+Via (47.1mm,48.4mm) from TL to BL
+Via (48.9mm,52mm) from TL to BL
+Via (48mm,52mm) from TL to BL
+Via (47.1mm,52mm) from TL to BL
+Via (49.8mm,51.1mm) from TL to BL
+Via (48.9mm,51.1mm) from TL to BL
+Via (48mm,51.1mm) from TL to BL
+Via (47.1mm,51.1mm) from TL to BL
+Via (44.4mm,52mm) from TL to BL
+Via (45.3mm,52mm) from TL to BL
+Via (46.2mm,52mm) from TL to BL
+Via (44.4mm,48.4mm) from TL to BL
+Via (44.4mm,49.3mm) from TL to BL
+Via (44.4mm,50.2mm) from TL to BL
+Via (44.4mm,51.1mm) from TL to BL
+Via (2.4mm,42.7mm) from TL to BL
+Via (3.3mm,42.7mm) from TL to BL
+Via (4.2mm,42.7mm) from TL to BL
+Via (5.1mm,42.7mm) from TL to BL
+Via (2.4mm,41.8mm) from TL to BL
+Via (3.3mm,41.8mm) from TL to BL
+Via (4.2mm,41.8mm) from TL to BL
+Via (5.1mm,41.8mm) from TL to BL
+Via (2.4mm,40.9mm) from TL to BL
+Via (3.3mm,40.9mm) from TL to BL
+Via (4.2mm,40.9mm) from TL to BL
+Via (5.1mm,40.9mm) from TL to BL
+Via (5.1mm,40mm) from TL to BL
+Via (4.2mm,40mm) from TL to BL
+Via (3.3mm,40mm) from TL to BL
+Via (2.4mm,40mm) from TL to BL
+Via (10.4mm,39.9mm) from TL to BL
+Via (11.3mm,39.9mm) from TL to BL
+Via (12.2mm,39.9mm) from TL to BL
+Via (13.1mm,39.9mm) from TL to BL
+Via (10.4mm,39mm) from TL to BL
+Via (11.3mm,39mm) from TL to BL
+Via (12.2mm,39mm) from TL to BL
+Via (13.1mm,39mm) from TL to BL
+Via (10.4mm,38.1mm) from TL to BL
+Via (11.3mm,38.1mm) from TL to BL
+Via (12.2mm,38.1mm) from TL to BL
+Via (13.1mm,38.1mm) from TL to BL
+Via (13.1mm,37.2mm) from TL to BL
+Via (12.2mm,37.2mm) from TL to BL
+Via (11.3mm,37.2mm) from TL to BL
+Via (10.4mm,37.2mm) from TL to BL
+Via (27.1mm,42.7mm) from TL to BL
+Via (28mm,42.7mm) from TL to BL
+Via (28.9mm,42.7mm) from TL to BL
+Via (29.8mm,42.7mm) from TL to BL
+Via (27.1mm,41.8mm) from TL to BL
+Via (28mm,41.8mm) from TL to BL
+Via (28.9mm,41.8mm) from TL to BL
+Via (29.8mm,41.8mm) from TL to BL
+Via (27.1mm,40.9mm) from TL to BL
+Via (28mm,40.9mm) from TL to BL
+Via (28.9mm,40.9mm) from TL to BL
+Via (29.8mm,40.9mm) from TL to BL
+Via (29.8mm,40mm) from TL to BL
+Via (28.9mm,40mm) from TL to BL
+Via (28mm,40mm) from TL to BL
+Via (27.1mm,40mm) from TL to BL
+Via (35.4mm,42.7mm) from TL to BL
+Via (36.3mm,42.7mm) from TL to BL
+Via (37.2mm,42.7mm) from TL to BL
+Via (38.1mm,42.7mm) from TL to BL
+Via (35.4mm,41.8mm) from TL to BL
+Via (36.3mm,41.8mm) from TL to BL
+Via (37.2mm,41.8mm) from TL to BL
+Via (38.1mm,41.8mm) from TL to BL
+Via (35.4mm,40.9mm) from TL to BL
+Via (36.3mm,40.9mm) from TL to BL
+Via (37.2mm,40.9mm) from TL to BL
+Via (38.1mm,40.9mm) from TL to BL
+Via (38.1mm,40mm) from TL to BL
+Via (37.2mm,40mm) from TL to BL
+Via (36.3mm,40mm) from TL to BL
+Via (35.4mm,40mm) from TL to BL
+Via (4.402mm,35.814mm) from TL to BL
+Via (3.502mm,35.814mm) from TL to BL
+Via (2.602mm,35.814mm) from TL to BL
+Via (1.702mm,35.814mm) from TL to BL
+Via (29.446mm,35.636mm) from TL to BL
+Via (28.546mm,35.636mm) from TL to BL
+Via (27.646mm,35.636mm) from TL to BL
+Via (26.746mm,35.636mm) from TL to BL
+Via (37.193mm,35.738mm) from TL to BL
+Via (36.293mm,35.738mm) from TL to BL
+Via (35.393mm,35.738mm) from TL to BL
+Via (34.493mm,35.738mm) from TL to BL
+Via (31.45mm,8.975mm) from TL to BL
+Via (31.45mm,10.25mm) from TL to BL
+Via (17.025mm,9.1mm) from TL to BL
+Via (8.1mm,16.2mm) from TL to BL
+Via (8.125mm,20mm) from TL to BL
+Via (7.975mm,4.05mm) from TL to BL
+Via (8.025mm,6.325mm) from TL to BL
+Via (8.2mm,11.525mm) from TL to BL
+Via (30.175mm,9.5mm) from TL to BL
+Via (28.25mm,10.25mm) from TL to BL
+Via (30.775mm,5.975mm) from TL to BL
+Via (24.771mm,13.637mm) from TL to BL
+Via (15.113mm,12.573mm) from TL to BL
+Via (40.005mm,15.875mm) from TL to BL
+Via (7.475mm,31.35mm) from TL to BL
+Via (44.762mm,55.397mm) from TL to BL
+Via (43.862mm,55.397mm) from TL to BL
+Via (42.962mm,55.397mm) from TL to BL
+Via (42.062mm,55.397mm) from TL to BL
+Via (47.444mm,55.372mm) from TL to BL
+Via (46.544mm,55.372mm) from TL to BL
+Via (45.644mm,55.372mm) from TL to BL
+Via (43.848mm,56.388mm) from TL to BL
+Via (42.948mm,56.388mm) from TL to BL
+Via (42.048mm,56.388mm) from TL to BL
+Via (41.148mm,56.388mm) from TL to BL
+Via (43.848mm,57.404mm) from TL to BL
+Via (42.948mm,57.404mm) from TL to BL
+Via (42.048mm,57.404mm) from TL to BL
+Via (41.148mm,57.404mm) from TL to BL
+Via (43.848mm,58.42mm) from TL to BL
+Via (42.948mm,58.42mm) from TL to BL
+Via (42.048mm,58.42mm) from TL to BL
+Via (41.148mm,58.42mm) from TL to BL
+Via (43.848mm,59.436mm) from TL to BL
+Via (42.948mm,59.436mm) from TL to BL
+Via (42.048mm,59.436mm) from TL to BL
+Via (41.148mm,59.436mm) from TL to BL
+Via (47.447mm,56.363mm) from TL to BL
+Via (47.447mm,57.404mm) from TL to BL
+Via (47.447mm,58.42mm) from TL to BL
+Via (47.447mm,59.436mm) from TL to BL
+Via (4.575mm,59.436mm) from TL to BL
+Via (4.575mm,58.42mm) from TL to BL
+Via (4.575mm,57.404mm) from TL to BL
+Via (4.575mm,56.363mm) from TL to BL
+Via (0.976mm,59.436mm) from TL to BL
+Via (0.976mm,58.42mm) from TL to BL
+Via (0.976mm,57.404mm) from TL to BL
+Via (0.976mm,56.388mm) from TL to BL
+Via (2.772mm,55.372mm) from TL to BL
+Via (3.672mm,55.372mm) from TL to BL
+Via (4.572mm,55.372mm) from TL to BL
+Via (0.991mm,55.397mm) from TL to BL
+Via (1.891mm,55.397mm) from TL to BL
+Via (5.512mm,59.436mm) from TL to BL
+Via (6.412mm,59.436mm) from TL to BL
+Via (7.312mm,59.436mm) from TL to BL
+Via (5.512mm,58.42mm) from TL to BL
+Via (6.412mm,58.42mm) from TL to BL
+Via (7.312mm,58.42mm) from TL to BL
+Via (5.512mm,57.404mm) from TL to BL
+Via (6.412mm,57.404mm) from TL to BL
+Via (7.312mm,57.404mm) from TL to BL
+Via (5.512mm,56.388mm) from TL to BL
+Via (6.412mm,56.388mm) from TL to BL
+Via (7.312mm,56.388mm) from TL to BL
+Via (6.426mm,55.397mm) from TL to BL
+Via (5.486mm,55.372mm) from TL to BL
+Via (21.438mm,47.854mm) from TL to BL
+Via (21.438mm,46.431mm) from TL to BL
+Via (46.783mm,44.069mm) from TL to BL
+Via (45.883mm,44.069mm) from TL to BL
+Via (44.983mm,44.069mm) from TL to BL
+Via (44.083mm,44.069mm) from TL to BL
+Via (22.704mm,43.79mm) from TL to BL
+Via (21.804mm,43.79mm) from TL to BL
+Via (20.904mm,43.79mm) from TL to BL
+Via (20.004mm,43.79mm) from TL to BL
+Via (13.992mm,43.764mm) from TL to BL
+Via (13.092mm,43.764mm) from TL to BL
+Via (12.192mm,43.764mm) from TL to BL
+Via (11.292mm,43.764mm) from TL to BL
+Via (6.756mm,23.368mm) from TL to BL
+Via (7.925mm,23.622mm) from TL to BL
+Via (43.536mm,37.287mm) from TL to BL
+Via (44.436mm,37.287mm) from TL to BL
+Via (45.336mm,37.287mm) from TL to BL
+Via (46.236mm,37.287mm) from TL to BL
+Via (46.236mm,38.187mm) from TL to BL
+Via (45.336mm,38.187mm) from TL to BL
+Via (44.436mm,38.187mm) from TL to BL
+Via (43.536mm,38.187mm) from TL to BL
+Via (46.236mm,39.087mm) from TL to BL
+Via (45.336mm,39.087mm) from TL to BL
+Via (44.436mm,39.087mm) from TL to BL
+Via (43.536mm,39.087mm) from TL to BL
+Via (46.236mm,39.987mm) from TL to BL
+Via (45.336mm,39.987mm) from TL to BL
+Via (44.436mm,39.987mm) from TL to BL
+Via (43.536mm,39.987mm) from TL to BL
+Via (28.829mm,24.308mm) from TL to BL
+Via (28.118mm,23.673mm) from TL to BL
+Via (14.453mm,47.955mm) from TL to BL
+Via (14.453mm,46.533mm) from TL to BL
+Via (11.049mm,27.61mm) from TL to BL
+Via (12.09mm,27.661mm) from TL to BL
+Via (-0.255mm,26.245mm) from TL to BL
+Via (5.444mm,11.269mm) from TL to BL
+Via (5.444mm,17.314mm) from TL to BL
+Via (5.47mm,20.024mm) from TL to BL
+Via (9.906mm,23.622mm) from TL to BL
+Via (10.069mm,20.193mm) from TL to BL
+Via (10.043mm,16.993mm) from TL to BL
+Via (10.205mm,10.613mm) from TL to BL
+Via (41.664mm,25.981mm) from TL to BL
+Via (19.075mm,37.178mm) from TL to BL
+Via (19.975mm,37.178mm) from TL to BL
+Via (20.875mm,37.178mm) from TL to BL
+Via (21.775mm,37.178mm) from TL to BL
+Via (21.775mm,38.078mm) from TL to BL
+Via (20.875mm,38.078mm) from TL to BL
+Via (19.975mm,38.078mm) from TL to BL
+Via (19.075mm,38.078mm) from TL to BL
+Via (21.775mm,38.978mm) from TL to BL
+Via (20.875mm,38.978mm) from TL to BL
+Via (19.975mm,38.978mm) from TL to BL
+Via (19.075mm,38.978mm) from TL to BL
+Via (21.775mm,39.878mm) from TL to BL
+Via (20.875mm,39.878mm) from TL to BL
+Via (19.975mm,39.878mm) from TL to BL
+Via (19.075mm,39.878mm) from TL to BL
+Via (36.068mm,26.594mm) from TL to BL
+Via (34.392mm,25.908mm) from TL to BL
+Via (26.428mm,28.702mm) from TL to BL
+Via (26.906mm,29.18mm) from TL to BL
+Via (13.35mm,10.35mm) from TL to BL
+Via (24.475mm,11.046mm) from TL to BL
+Via (16.749mm,25.562mm) from TL to BL
+Via (8.128mm,25.654mm) from TL to BL
+Via (48.486mm,26.25mm) from TL to BL
+Via (34.544mm,28.448mm) from TL to BL
+Via (40.005mm,18.44mm) from TL to BL
+Via (40.005mm,17.577mm) from TL to BL
+Via (40.005mm,16.739mm) from TL to BL
+Via (11.176mm,50.8mm) from TL to BL
+Via (12.076mm,50.8mm) from TL to BL
+Via (13.876mm,50.8mm) from TL to BL
+Via (12.976mm,50.8mm) from TL to BL
+Via (14.024mm,49.022mm) from TL to BL
+Via (14.024mm,49.922mm) from TL to BL
+Via (23.517mm,50.292mm) from TL to BL
+Via (24.417mm,50.292mm) from TL to BL
+Via (22.617mm,50.292mm) from TL to BL
+Via (21.717mm,50.292mm) from TL to BL
+Via (21.336mm,49.541mm) from TL to BL
+Via (21.336mm,48.641mm) from TL to BL
+Via (33.147mm,50.038mm) from TL to BL
+Via (34.047mm,50.038mm) from TL to BL
+Via (35.847mm,50.038mm) from TL to BL
+Via (34.947mm,50.038mm) from TL to BL
+Via (33.147mm,48.26mm) from TL to BL
+Via (33.147mm,49.16mm) from TL to BL
+Via (22.153mm,26.129mm) from TL to BL
+Via (22.718mm,26.694mm) from TL to BL
+Via (23.284mm,27.26mm) from TL to BL
+Via (23.85mm,27.826mm) from TL to BL
+Via (22.718mm,25.563mm) from TL to BL
+Via (23.284mm,26.129mm) from TL to BL
+Via (23.85mm,26.694mm) from TL to BL
+Via (24.415mm,27.26mm) from TL to BL
+Via (23.284mm,24.997mm) from TL to BL
+Via (23.85mm,25.563mm) from TL to BL
+Via (24.981mm,26.694mm) from TL to BL
+Via (23.85mm,24.432mm) from TL to BL
+Via (24.415mm,24.997mm) from TL to BL
+Via (25.547mm,26.129mm) from TL to BL
+Via (24.981mm,25.563mm) from TL to BL
+Via (24.415mm,26.129mm) from TL to BL
+

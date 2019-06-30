@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MicroInverter.PrjPcb]
+   Generated File[uInv_PCB.TXT]
+   Generated File[uInv_PCB.LDP]
+   Generated File[uInv_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 0:26:31 On 30.6.2019.

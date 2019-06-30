@@ -1,0 +1,11 @@
+#ignore History folder
+History/
+
+#ignore Project Logs for MicroInverter folder
+Project Logs for MicroInverter/
+
+#ignore _Previews folder
+Previews/
+
+#Ignore report files
+.REP
