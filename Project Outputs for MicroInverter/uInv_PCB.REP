@@ -104,8 +104,8 @@ Generating : BL
 
 
 Used DCodes :
-    D14
-    D25
+    D10
+    D11
     D26
     D27
     D28
@@ -208,8 +208,8 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D73
-    D84
+    D69
+    D70
     D85
     D86
     D87
