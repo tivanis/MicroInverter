@@ -65,9 +65,9 @@ Generating : ML1
 
 
 Used DCodes :
-    D44
+    D43
     D46
-    D47
+    D48
     D49
     D50
     D51
@@ -84,14 +84,14 @@ Generating : ML2
 
 Used DCodes :
     D27
-    D31
-    D33
-    D36
-    D43
+    D28
+    D30
+    D38
+    D44
     D45
-    D48
+    D47
+    D49
     D50
-    D51
 *************************************************************
 
 *************************************************************
@@ -106,16 +106,16 @@ Generating : BL
 Used DCodes :
     D10
     D11
-    D26
+    D12
     D27
     D28
     D29
     D30
-    D31
-    D33
-    D34
-    D35
-    D36
+    D32
+    D38
+    D39
+    D40
+    D41
     D42
     D43
     D44
@@ -146,7 +146,7 @@ Generating : Top Overlay
 
 
 Used DCodes :
-    D28
+    D32
     D62
     D63
     D64
@@ -210,7 +210,7 @@ Generating : Bottom Solder
 Used DCodes :
     D69
     D70
-    D85
+    D71
     D86
     D87
     D88
@@ -238,7 +238,7 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D28
+    D32
     D62
     D64
     D66
