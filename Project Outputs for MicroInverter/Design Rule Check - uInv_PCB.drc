@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\Projects\MicroInverter\uInv_PCB.PcbDoc
-Date     : 1.7.2019.
-Time     : 21:31:39
+Date     : 2.7.2019.
+Time     : 0:01:22
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -53,4 +53,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:11
+Time Elapsed        : 00:00:04

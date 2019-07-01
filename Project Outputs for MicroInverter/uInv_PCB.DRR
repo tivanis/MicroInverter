@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: uInv_PCB.PcbDoc   1.7.2019.  21:37:47
+NCDrill File Report For: uInv_PCB.PcbDoc   2.7.2019.  0:01:49
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : TL to BL
@@ -7,12 +7,12 @@ ASCII RoundHoles File : uInv_PCB.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             137       PTH        16.04inch (407.33mm)
-T2      20mil (0.5mm)                                             Round             317       PTH        20.06inch (509.47mm)
+T1      12mil (0.3mm)                                             Round             137       PTH        16.05inch (407.64mm)
+T2      20mil (0.5mm)                                             Round             318       PTH        20.33inch (516.47mm)
 T3      30mil (0.75mm)                                            Round             40        PTH        5.40inch (137.16mm)
 T4      43mil (1.1mm)                                             Round             9         PTH        1.00inch (25.40mm)
 T5      59mil (1.5mm)                                             Round             5         PTH        0.83inch (21.20mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              508
+Totals                                                                              509
 
 Total Processing Time (hh:mm:ss) : 00:00:01
